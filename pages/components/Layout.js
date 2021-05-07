@@ -23,7 +23,7 @@ export default function Layout(props) {
           <li><Link href="/">Home</Link></li>
           <li><Link href="/writing">Writing</Link></li>
           <li><Link href="/about">About</Link></li>
-          {/* <li><Link href="/contact">Contact</Link></li> */}
+          <li><Link href="/art">Art</Link></li>
         </ul>
       </nav>
       <main className={ styles.content }>
