@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[8],{9015:function(){},3714:function(n,_,u){(window.__NEXT_P=window.__NEXT_P||[]).push(["/art",function(){return u(9015)}])}},function(n){var _,u=(_=3714,n(n.s=_));_N_E=u}]);
