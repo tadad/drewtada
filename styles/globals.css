@@ -18,7 +18,7 @@ a:visited {
 }
 
 .block-list {
-  clear:both;
+  text-align: left;
 }
 
 .bordered {
@@ -30,10 +30,16 @@ a:visited {
   padding: 10px;
 }
 
+.block-list {
+  display: flex;
+  flex-direction: column;
+}
+
 ul li {
   display: block;
   width: auto;
   float: left;
+  margin-bottom: 5px;
 }
 
 .back-button {
