@@ -18,7 +18,6 @@ export default function Home() {
         This blog is dedicated to creating and documenting the aesthetic movement that will dominate the 21st century:
         a middle path between a "retvrn" to tradition, and a technological future.
       </p>
-      <h3>The blog is dead. Long live the blog!</h3>
     </Layout>
   );
 }

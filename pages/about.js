@@ -17,6 +17,8 @@ export default function Art() {
         height="400"
         width="300"
       />
+      <h3 style={{ textAlign: "center" }}>The blog is dead. Long live the blog!</h3>
+
     </Layout>
   );
 }
