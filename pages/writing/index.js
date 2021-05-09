@@ -21,8 +21,10 @@ export default function Home() {
       </p>
       <h2>NFTs and Patronage in the 21st century</h2>
       <p>
-        NFTs are enabling new artist/patron relationships. In time, new masterpieces and world wonders will be built by
-        the patronage of the crypto-rich.
+        Crpyto and NFTs are a frontier where artist/patron relationships can florish. While the critics are correct that
+        the current environment is filled with shallow work and smells of tulip mania, we are still in the early days of
+        crypto-patronage. It is up to a small community of artists to define capital-A Art on the blockchain and raise our
+        overall standard of cultural production.
       </p>
       <br/>
       <h1>Lists</h1>
