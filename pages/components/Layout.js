@@ -7,7 +7,7 @@ export default function Layout(props) {
   return (
     <>
     <Head>
-      <title> Post Decadence| ウェブサイト </title>
+      <title> Drew Tada | ウェブサイト </title>
       <meta charset="utf-8"/>
       <meta name="description" content="Drew Tada's personal website."/>
       <meta name="author" content="Drew Tada"/>
@@ -17,13 +17,12 @@ export default function Layout(props) {
     </Head>
     <div className={ styles.background }>
       <nav className={ styles.nav }>
-        <h1>Post Decadence</h1>
+        <h1>Drew Tada</h1>
         <h2 style={{ letterSpacing: "10px" }}>ウェブサイト</h2>
         <ul style={{ display: "flex", padding: 0, justifyContent: "space-around" }}>
           <li><Link href="/">Home</Link></li>
           <li><Link href="/writing">Writing</Link></li>
           <li><Link href="/about">About</Link></li>
-          <li><Link href="/art">Art</Link></li>
         </ul>
       </nav>
       <main className={ styles.content }>

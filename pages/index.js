@@ -7,16 +7,18 @@ export default function Home() {
     <Layout>
       <h1> welcome </h1>
       <h2>こんにちは</h2>
-      <p><i>
-        Whoever fights monsters should see to it that in the process he does not become a 
-        monster. For if you gaze long enough into the abyss, the abyss gazes back into you.
-      </i></p>
-      <h3>-Nietzsche</h3>
-      <h1>Popular Posts</h1>
-      <h2>ブログ</h2>
-      <ul>
-        <li><Link href="">We already live in virtual reality</Link></li>
-      </ul>
+      <p>
+        The modernist project has failed, yet its shadow still looms over us. We may mock it with memes and subversive irony,
+        though this is an admission of defeat more than anything. 
+        The post-modern human would rather laugh than create a great work of art, or architect a great building.
+        His memes are shallow and will be justly forgotten.
+      </p>
+      <p>
+        If we cannot cling to modernism, nor mock it indefinitely, then a third path must be opened.
+        This blog is dedicated to creating and documenting the aesthetic movement that will dominate the 21st century:
+        a middle path between a "retvrn" to tradition, and a technological future.
+      </p>
+      <h3>The blog is dead. Long live the blog!</h3>
     </Layout>
   );
 }
