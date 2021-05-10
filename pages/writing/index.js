@@ -29,7 +29,7 @@ export default function Home() {
       <br/>
       <h1>Lists</h1>
       <h2>リスト</h2>
-      <ul class="block-list">
+      <ul className="block-list">
         <li><Link href="/writing/reading-list">Required Reading</Link></li>
         <li><Link href="/writing/great-works">Great Works of Art</Link></li>
 

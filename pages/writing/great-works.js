@@ -11,7 +11,7 @@ export default function GreatWorks() {
         may not be intentional.
       </h3>
       <h1>Paintings</h1>
-      <ul class="block-list">
+      <ul className="block-list">
         <li>Sistine Chapel - Michelangelo</li>
         <li>Potato Eaters - Van Gogh</li>
         <li>The Garden of Earthly Delights - Bosch</li>
@@ -32,7 +32,7 @@ export default function GreatWorks() {
         <li>The Great Wave - Hokusai</li>
       </ul> 
       <h1>Sculpture</h1>
-      <ul class="block-list">
+      <ul className="block-list">
         <li>The Ecstacy of St. Teresa - Bernini</li>
         <li>David - Michelangelo</li>
         <li>David - Donatello</li>
@@ -43,7 +43,7 @@ export default function GreatWorks() {
       </ul>
       <h1>Architecture</h1>
       <p><i>Working on it...</i></p>
-      <h3 class="back-button">
+      <h3 className="back-button">
         <Link href="/writing">Back</Link>
       </h3>
     </Layout>

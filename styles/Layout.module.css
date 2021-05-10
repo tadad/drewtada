@@ -2,7 +2,6 @@
   display: block;
   overflow: auto;
   height:100%;
-  background-image: url('/background_main.png');
   background-repeat: repeat;
   padding: 10px
 }
