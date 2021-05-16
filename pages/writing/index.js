@@ -7,24 +7,29 @@ export default function Home() {
     <Layout>
       <h1>Upcoming topics</h1>
       <h2>ブログ</h2>
-      <h2>Culture: Atoms v Bits</h2>
+      <h2>On the Depth of Meme Culture</h2>
       <p>
-        Our cultural production is entirely virtual. Every cultural artifact we produce (film, television, videogames, 
-        music), is enjoyed through a screen. There are no great architects, painters, or sculptors, left.
-        Those that refuse to flatten their work into a bytestream have no cultural capital.
-        And so it seems everything beautiful is not real, and everything real is not beautiful.
+        Internet memes are an interesting form of art that has that definite tradition of ideological, allegorical,
+        layered meaning structure of great art. Their subjects and methods lack the dignity of significance and
+        execution though, at least for now.
       </p>
-      <h2>Internet Archaeology</h2>
+      <h2>Modernism is Aesthetic Liberalism</h2>
       <p>
-        The West is experiencing cultural decline, though the seeds of somthing great are being planted in cyberspace.
-        So far, most of it has stayed in cyberspace. When will it become real? How long do we have to wait?
-        Or is it all a LARP?
+        Every movement in modern art has been a reflection of that period's flavor of liberalism. From its origin in
+        the French Revolution and the stately paintings of Jacque Louis David, all the way to the peak of the liberal
+        order with the universal and free paintings of Rothko and Pollock, the spirit of liberalism was projected onto
+        modern art. As belief in liberalism fades, what cultural forms do we have to look forward to?
       </p>
-      <h2>NFTs and Patronage in the 21st century</h2>
+      <h2>Culture: Atoms vs Bits</h2>
       <p>
-        Crpyto and NFTs are a frontier where artist/patron relationships can florish. While the critics are correct that
-        the current environment wreaks of fraud, shallow work, and tulip mania, we are still in the early days of
-        crypto-patronage. It is up to a small community of artists to raise the standard and redefine what capital-A Art is.
+        Today, our important cultural production is entirely virtual. Where we still produce great original works - mainly
+        film, television, videogames, and music - we produce them to be experienced on a screen. Any art
+        that requires a visible presence to be experienced - a painting in a gallery, a sculpture in a garden, or a building
+        downtown - is dead. There are no great architects, painters, or sculptors, left.
+      </p>
+      <h2>NFTs - Return to Tradition</h2>
+      <p>
+        Crpyto and NFTs are a frontier where artist\patron relationships can florish.
       </p>
       <br/>
       <h1>Lists</h1>

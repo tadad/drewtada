@@ -39,7 +39,6 @@ export default function GreatWorks() {
         <li>Pieta - Michelangelo</li>
         <li>The Gates of Hell - Rodin</li>
         <li>Laocoön and His Sons - Unknown</li>
-        <li>Venus de Milo - Unknown</li>
       </ul>
       <h1>Architecture</h1>
       <p><i>Working on it...</i></p>

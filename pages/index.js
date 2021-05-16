@@ -6,6 +6,9 @@ export default function Home() {
     <Layout>
       <h1> welcome </h1>
       <h2>こんにちは</h2>
+      <p><i>
+          This blog is a prototype.
+      </i></p>
       <p>
         This is a blog about the future of art & culture.
         We live in the shadow of the failed modernist project.
@@ -21,6 +24,9 @@ export default function Home() {
         This journal is my attempt to understand post-decadence, and form a new cultural synthesis
         for the 21st century: a middle path between tradition and technology.
       </p>
+      <h2><i>
+        -Drew Tada
+      </i></h2>
     </Layout>
   );
 }
