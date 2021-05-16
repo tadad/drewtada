@@ -9,21 +9,20 @@ export default function Home() {
       <h2>ブログ</h2>
       <h2>On the Depth of Meme Culture</h2>
       <p>
-        Internet memes are an interesting form of art that has that definite tradition of ideological, allegorical,
-        layered meaning structure of great art. Their subjects and methods lack the dignity of significance and
+        Internet memes are an interesting form of art that has a tradition of ideological, allegorical,
+        layered meaning, and structure conducive to great art. Their subjects and methods lack the dignity of significance and
         execution though, at least for now.
       </p>
       <h2>Modernism is Aesthetic Liberalism</h2>
       <p>
-        Every movement in modern art has been a reflection of that period's flavor of liberalism. From its origin in
-        the French Revolution and the stately paintings of Jacque Louis David, all the way to the peak of the liberal
-        order with the universal and free paintings of Rothko and Pollock, the spirit of liberalism was projected onto
-        modern art. As belief in liberalism fades, what cultural forms do we have to look forward to?
+        Modernism is the projection of liberalism onto art. The radical movement began in the
+        French Revolution, and slowly dominated the world alongside liberal politics. As belief in liberalism has faded,
+        so has our appreciation of modern art. Today, we mock modernsim for being flat and empty. As we move beyond liberalism
+        as an ideology, a post-mortem on modern art is in order.
       </p>
       <h2>Culture: Atoms vs Bits</h2>
       <p>
-        Today, our important cultural production is entirely virtual. Where we still produce great original works - mainly
-        film, television, videogames, and music - we produce them to be experienced on a screen. Any art
+        Today, our important cultural production is entirely virtual. Any art
         that requires a visible presence to be experienced - a painting in a gallery, a sculpture in a garden, or a building
         downtown - is dead. There are no great architects, painters, or sculptors, left.
       </p>
@@ -37,7 +36,6 @@ export default function Home() {
       <ul className="block-list">
         <li><Link href="/writing/reading-list">Required Reading</Link></li>
         <li><Link href="/writing/great-works">Great Works of Art</Link></li>
-
       </ul>
     </Layout>
   );

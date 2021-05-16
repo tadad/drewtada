@@ -6,11 +6,8 @@ export default function Home() {
     <Layout>
       <h1> welcome </h1>
       <h2>こんにちは</h2>
-      <p><i>
-          This blog is a prototype.
-      </i></p>
       <p>
-        This is a blog about the future of art & culture.
+        This journal is about the future of art & culture.
         We live in the shadow of the failed modernist project.
         However,  we have not challenged modernism with an alternate liturgy.
         Rather, we have retreated into the virtual world, ridiculing modernism
