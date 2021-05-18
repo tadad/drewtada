@@ -12,10 +12,9 @@ export default function Art() {
         If you are an artist, writer, sculptor, or architect, and wish to join the community, 
         reach out to me at drew (dot) tada [at] gmail *dot* com
       </p>
-      <Image
+      <img
+        style={{maxHeight: "400px"}}
         src="/cast.webp"
-        height="400"
-        width="300"
       />
     </Layout>
   );

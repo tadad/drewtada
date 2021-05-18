@@ -8,18 +8,20 @@ export default function Home() {
       <h2>こんにちは</h2>
       <p>
         This journal is about the future of art & culture.
-        We live in the shadow of the failed modernist project.
-        However,  we have not challenged modernism with an alternate liturgy.
-        Rather, we have retreated into the virtual world, ridiculing modernism
-        with memes and subversive irony. With no purpose for our society, we
-        have slipped into nihilism and decadence.
+        We live in the shadow of modernism, but  we have not challenged it 
+        with an alternate aesthetic or spirit.
+        Rather, we have retreated from our cultural ambitions, ridiculing modernism
+        with memes and subversive irony.
       </p>
+      <img
+        src="/Boy-On-Mount-Fuji.jpeg"
+      />
       <p>
-        The direction of history forces us to consider the looming collapse of contemporary art & culture.
-        Without the development of a coherent artistic and cultural <i>geist</i>,
+        Without purpose for our society, we
+        have slipped into nihilism and decadence, and it is no wonder that our
+        art reflects this. Without the development of a coherent artistic and cultural <i>geist</i>,
         we are unlikely to save ourselves from the slow decline into meaningless debauchery.
-        This journal is my attempt to understand post-decadence, and form a new cultural synthesis
-        for the 21st century: a middle path between tradition and technology.
+        This journal is my attempt to understand what comes after post-modern nihilism.
       </p>
       <h2><i>
         -Drew Tada
