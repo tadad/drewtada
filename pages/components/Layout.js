@@ -13,7 +13,7 @@ export default function Layout(props) {
   return (
     <>
     <Head>
-      <title> Post Decadence | ウェブサイト </title>
+      <title> Twilight of the Idols | ウェブサイト </title>
       <meta charset="utf-8"/>
       <meta name="description" content="Drew Tada's personal website."/>
       <meta name="author" content="Drew Tada"/>
@@ -28,7 +28,7 @@ export default function Layout(props) {
         <small><i>Version 0.1.0</i></small>
         <ul style={{ display: "flex", padding: 0, justifyContent: "space-around" }}>
           <li><Link href="/">Home</Link></li>
-          <li><Link href="/writing">Writing</Link></li>
+          <li><Link href="/writing/journal">Writing</Link></li>
           <li><Link href="/about">About</Link></li>
         </ul>
       </nav>

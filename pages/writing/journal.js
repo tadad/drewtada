@@ -1,10 +1,23 @@
 import React from 'react';
+import Link from 'next/link';
 import Layout from '../components/Layout';
 import JournalPost from '../components/JournalPost';
 
 export default function Journal() {
   return (
     <Layout>
+      <h1>Journal</h1>
+      <h2>ブログ</h2>
+      <p>
+        These are random thoughts and musings I write in short bursts.
+      </p>
+      <ul className="block-list">
+        <li><Link href="#5-18-21">Life Affirmation</Link></li>
+        <li><Link href="#5-16-21">Death of the Author is a Theory for Midwits</Link></li>
+        <li><Link href="#5-15-21">Modernism is Aesthetic Liberalism</Link></li>
+        <li><Link href="#5-14-21">Culture: Atoms vs Bits</Link></li>
+      </ul>
+      <br/>
       <JournalPost date="5-18-21" title="Life Affirmation">
         <p>
           Americans don't seem to know how to deal with struggle anymore. 
