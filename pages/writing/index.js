@@ -5,10 +5,16 @@ import Layout from '../components/Layout';
 export default function Home() {
   return (
     <Layout>
-      <h1>Daily Journal</h1>
+      <h1>Journal</h1>
       <h2>ブログ</h2>
-      <ul style={{display: "flex"}}>
-        <li><Link href="/writing/daily-journal">Most Recent: May 18, 2021</Link></li>
+      <p>
+        These are random thoughts and musings I write in short bursts. Not meant to be taken seriously.
+      </p>
+      <ul className="block-list">
+        <li><Link href="/writing/journal#5-16-21">Death of the Author is a Theory for Midwits</Link></li>
+        <li><Link href="/writing/journal#5-15-21">Modernism is Aesthetic Liberalism</Link></li>
+        <li><Link href="/writing/journal#5-18-21">Life Affirmation</Link></li>
+        <li><Link href="/writing/journal#5-14-21">Culture: Atoms vs Bits</Link></li>
       </ul>
       <br/>
       <h1>Lists</h1>

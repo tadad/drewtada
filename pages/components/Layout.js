@@ -23,7 +23,7 @@ export default function Layout(props) {
     </Head>
     <div className={ styles.background } style={{backgroundImage: `url(/${background})`}}>
       <nav className={ styles.nav }>
-        <h1>Post Decadent</h1>
+        <h1>Twilight of the Idols</h1>
         <h2 style={{ letterSpacing: "10px" }}>ウェブサイト</h2>
         <small><i>Version 0.1.0</i></small>
         <ul style={{ display: "flex", padding: 0, justifyContent: "space-around" }}>

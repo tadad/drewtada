@@ -21,7 +21,7 @@ export default function Home() {
         have slipped into nihilism and decadence, and it is no wonder that our
         art reflects this. Without the development of a coherent artistic and cultural <i>geist</i>,
         we are unlikely to save ourselves from the slow decline into meaningless debauchery.
-        This journal is my attempt to understand what comes after post-modern nihilism.
+        This journal is my attempt to understand the origin of great cultures.
       </p>
       <h2><i>
         -Drew Tada

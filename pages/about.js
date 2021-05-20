@@ -7,10 +7,8 @@ export default function Art() {
     <Layout>
       <h1>About</h1>
       <p>
-        This blog is about the future of capital-A Art in the 21st century, blazing a path between a
-        "retvrn" to tradition and a technological future.
-        If you are an artist, writer, sculptor, or architect, and wish to join the community, 
-        reach out to me at drew (dot) tada [at] gmail *dot* com
+        This blog is about the future of <i>A R T</i> in the 21st century, blazing a path between a
+        retvrn to tradition and a technological future.
       </p>
       <img
         style={{maxHeight: "400px"}}
