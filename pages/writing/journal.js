@@ -76,17 +76,18 @@ export default function Journal() {
 
       <JournalPost date="5-15-21" title="Modernism is Aesthetic Liberalism">
         <p>
-          Every ideology aspouses a particular aim and purpose, projecting its beliefs onto art. Modernism is the projection of liberalism onto art.
+          Every ideology aspouses a particular aim and purpose, projecting its beliefs onto art. Modernism is best understood as the projection of liberalism onto art.
           The various sub-movements, from Romanticism, Impressionism, all the way to Abstract Expressionism,
-          embodied that period's flavor of liberalism. I'll save a deeper analysis for a
-          later time, but for now, consider that the largest political deviations from liberalism in the 20th century - communism and 
-          fascism - had distinct, non-modern, art styles. The Nazis embraced&nbsp;
+          embodied that period's flavor of liberalism. It began in the French revolution - at just the time when Napoleon
+          spread his code all over Europe, and died in the 1970s. I'll save a deeper analysis for a
+          later time, but if you are not convinced, consider that the largest political deviations from liberalism in the 20th century - communism and 
+          fascism - were accompanied by distinct, non-modern, art styles. The Nazis embraced&nbsp;
           <a href="https://en.wikipedia.org/wiki/Art_in_Nazi_Germany">classical beauty</a>, and the communists&nbsp;
           <a href="https://en.wikipedia.org/wiki/Socialist_realism">realism</a>.
         </p>
         <img src="/nazi.jpeg" style={{maxHeight: "300px"}}/>
         <p>
-          Today, "modern art" is basically a euphemism for pretentious garbage that must be mocked. However, I think it is
+          Today, "modern art" is a euphemism for pretentious garbage that must be mocked. However, I think it is
           more accurate to label this art "post-modern." Artists through the end of the 60s largely still believed
           in the liberal project.&nbsp;
           <a href="https://en.wikipedia.org/wiki/Jackson_Pollock">Pollock</a> is human freedom,&nbsp;
@@ -103,7 +104,7 @@ export default function Journal() {
           do not know why we are together, what we are building, or why we should build anything in the first place.
           Before we can have great art and culture, we need a purpose for our society. The&nbsp;
           <a href="https://palladiummag.com/2018/09/29/towards-the-post-liberal-synthesis/">post-liberal thesis</a> must
-          come together before we truly overcome modern art.
+          come together before we can truly challenge modern art.
         </p>
       </JournalPost>
 
