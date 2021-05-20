@@ -7,21 +7,24 @@ export default function Journal() {
     <Layout>
       <JournalPost date="5-18-21" title="Life Affirmation">
         <p>
-          Americans don't seem to know how to deal with struggle anymore. There was a gas shortage in the South East, and
+          Americans don't seem to know how to deal with struggle anymore. 
+          One of the mythical periods in American history is the great depression - where times were tough, 
+          but everyone pulled through. Whether or not the legend is true, we have to contrast it with today.
+          There was a gas shortage in the South East, and
           the immediate reponse on behalf of the citizens was to stockpile gas - every man for themselves.
-          Something about the obese couple in an SUV hoarding 100 gallons of gas back home
+          Something about the obese couples, in their SUVs, hoarding thousands of gallons of gas back home
           was very unaesthetic. 
         </p>
+        <img src="/iron-dome.webp" />
         <p>
-          Perhaps asceticism will come back. It seems in the most materially prosperous society in world history that the
+          Perhaps asceticism will come back. It seems - in the most materially prosperous society in world history - that the
           only way to survive is to manufacture struggle artificially. Or perhaps Nietzsche was correct, and we should
           go about turning society into something more primitive and cruel. Either way, it seems that material prosperity leads
           to human cattle farming - proliferation of the lowest and ugliest life: a 40 year old single man eating hardened corn
           syrup, watching "adult cartoons," hitting the bong before taking a nap and masturbating to fetish porn. This is the
-          last man. This is the ideal citizen at the apex of capitalism: a cow. He eats, sleeps, consooms, and doesn't cause too
+          last man. This is the ideal consoomer at the apex of capitalism. He is a cow. He eats, sleeps, consooms, and doesn't cause too
           much trouble.
         </p>
-        <img src="/iron-dome.webp" />
         <p>
           I can understand why all those upper-middle class muslim kids went to join ISIS last decade.
           This past week, there was something life affirming about watching Arabs and Jews run from the rockets. 
@@ -32,7 +35,7 @@ export default function Journal() {
         <p>
           It only makes sense in a world where art (and those consooming it) is incredibly shallow. Only when the artist
           is producing meaninless <i>art pour l'art</i> does it come under the juristiction of the audience to decide what
-          it means. Nietzsche said that Every deep thinker is more afraid of being understood than of being misunderstood.
+          it means. Nietzsche said that Every deep thinker is more afraid of being understood than misunderstood.
           Strauss too.
         </p>
         <img src="/bosch.jpeg" />
@@ -42,13 +45,13 @@ export default function Journal() {
         <p>
           I'm embedded in particular esoteric meme cultures. It would take hours to explain some of them. They are very
           intentional and layered with lots of particular symbols understood by the in-group. They are not "merely aesthetic"
-          experiences. There is a tradition of ideological, allegorical, layered meaning, and structure conducive to great art.
-          However, memes are still extremely crude. You wouldn't want to frame one. Yet, there is
-          no doubt in my mind that great artists went through the same process we do when we make esoteric memes. I will never
-          fully understand a Bosch
-          painting. His art are probably layered with the same kind of esoteric symbols I enjoy in my memes. It's a lost tradition,
+          experiences. There is a tradition of ideological, allegorical, layered meaning, and structure. They are too crude to
+          be capital-A Art, but there is
+          no doubt in my mind that great artists communicate the same way we do when we create our esoteric memes.
+          I will fully understand a Bosch
+          painting. His art is layered with the same kind of esoteric symbols I enjoy in my memes. It's a lost tradition,
           a lost culture. I can marvel at it, but I'll never "get it" fully. I know that some people will never get my memes. Cultures
-          die.
+          die. But to suggest that there was no specific intention behind his brushstrokes is retarded.
         </p>
         <p>
           So when some midwit 110 iq comes and proclaims "death of the author" - it is true only insofar as they are consuming shallow
@@ -60,30 +63,34 @@ export default function Journal() {
 
       <JournalPost date="5-15-21" title="Modernism is Aesthetic Liberalism">
         <p>
-          Modernism is the projection of liberalism onto art. Every ideology aspouses
-          a particular aim and purpose, projecting its beliefs onto art. In the case of liberalism, we call it
-          modernism. The largest political deviations from liberalism - mainly communism and fascism in the 20th century - had art
-          very distinct from the modern. The Nazis embraced&nbsp;
+          Every ideology aspouses a particular aim and purpose, projecting its beliefs onto art. Modernism is the projection of liberalism onto art.
+          The various movements, from Romanticism, Impressionism, all the way to Abstract Expressionism,
+          were projections of that period's flavor of liberalism onto art. I'll save a deeper analysis for a
+          later time. For now, consider that the largest political deviations from liberalism in the 20th century - communism and 
+          fascism - had distinct, non-modern, art styles. The Nazis embraced&nbsp;
           <a href="https://en.wikipedia.org/wiki/Art_in_Nazi_Germany">classical beauty</a>, and the communists&nbsp;
           <a href="https://en.wikipedia.org/wiki/Socialist_realism">realism</a>.
         </p>
         <img src="/nazi.jpeg" style={{maxHeight: "300px"}}/>
         <p>
           Today, "modern art" is basically a euphemism for pretentious garbage that must be mocked. However, I think it is
-          more accurate to label this kind of art "post-modern." Artists through the end of the 60s largely still believed
+          more accurate to label this art "post-modern." Artists through the end of the 60s largely still believed
           in the liberal project.&nbsp;
-          <a href="https://en.wikipedia.org/wiki/Jackson_Pollock">Pollock</a> represents human freedom,&nbsp;
+          <a href="https://en.wikipedia.org/wiki/Jackson_Pollock">Pollock</a> is human freedom,&nbsp;
           <a href="https://en.wikipedia.org/wiki/Andy_Warhol">Warhol</a> material comfort,&nbsp;
           <a href="https://en.wikipedia.org/wiki/Mark_Rothko">Rothko</a> the flattening of the Earth.&nbsp;
-          By the early 70s, America had lost this
-          belief, and began to look back on these works as flat, empty, and meaningless.
+          By the early 70s, America had lost faith in these ideas
+          belief, and began to look back on this art as flat, empty, and meaningless.
         </p>  
         <img src="/pollock.jpeg" />
         <p>
           In time, we stumbled into post-modernism - rather than an overcoming of modernism,
-          seemed to just indulge in its worst aspects: the meaninglessness, the ugliness, <i>art pour l'art</i>. I see no course
-          correction anytime soon. Before we can have another great culture - we need a purpose for our society. Perhaps it will
-          come from Christ - or perhaps a Napoleon. My personal preference is a Napoleon.
+          it seemed to indulge in its worst aspects: the meaninglessness, the ugliness, the subjectivity - in short,
+          <i>art pour l'art</i>. I don't think we have corrected course since. We have no ambition because  we
+          do not know why we are together. We do not know what we are building, or why we would want to build anything.
+          Before we can have great art and culture, we need a purpose for our society. The&nbsp;
+          <a href="https://palladiummag.com/2018/09/29/towards-the-post-liberal-synthesis/">post-liberal thesis</a> must
+          come together before we truly overcome modern art.
         </p>
       </JournalPost>
 
