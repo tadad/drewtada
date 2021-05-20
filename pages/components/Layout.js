@@ -15,7 +15,7 @@ export default function Layout(props) {
     <Head>
       <title> Twilight of the Idols | ウェブサイト </title>
       <meta charset="utf-8"/>
-      <meta name="description" content="Drew Tada's personal website."/>
+      <meta name="description" content="Smashing false idols. Post-decadence."/>
       <meta name="author" content="Drew Tada"/>
       <meta name="keywords" content="Drew Tada,Personal Website,Blog,Philosophy,Essays"/>
       <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
