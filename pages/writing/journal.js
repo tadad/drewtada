@@ -77,9 +77,9 @@ export default function Journal() {
       <JournalPost date="5-15-21" title="Modernism is Aesthetic Liberalism">
         <p>
           Every ideology aspouses a particular aim and purpose, projecting its beliefs onto art. Modernism is the projection of liberalism onto art.
-          The various movements, from Romanticism, Impressionism, all the way to Abstract Expressionism,
-          were projections of that period's flavor of liberalism onto art. I'll save a deeper analysis for a
-          later time. For now, consider that the largest political deviations from liberalism in the 20th century - communism and 
+          The various sub-movements, from Romanticism, Impressionism, all the way to Abstract Expressionism,
+          embodied that period's flavor of liberalism. I'll save a deeper analysis for a
+          later time, but for now, consider that the largest political deviations from liberalism in the 20th century - communism and 
           fascism - had distinct, non-modern, art styles. The Nazis embraced&nbsp;
           <a href="https://en.wikipedia.org/wiki/Art_in_Nazi_Germany">classical beauty</a>, and the communists&nbsp;
           <a href="https://en.wikipedia.org/wiki/Socialist_realism">realism</a>.
@@ -92,15 +92,15 @@ export default function Journal() {
           <a href="https://en.wikipedia.org/wiki/Jackson_Pollock">Pollock</a> is human freedom,&nbsp;
           <a href="https://en.wikipedia.org/wiki/Andy_Warhol">Warhol</a> material comfort,&nbsp;
           <a href="https://en.wikipedia.org/wiki/Mark_Rothko">Rothko</a> the flattening of the Earth.&nbsp;
-          By the early 70s, America had lost faith in these ideas
-          belief, and began to look back on this art as flat, empty, and meaningless.
+          By the early 70s, America had lost faith in these ideas, and began to look back on this art as flat,
+          empty, and meaningless.
         </p>  
         <img src="/pollock.jpeg" />
         <p>
           In time, we stumbled into post-modernism - rather than an overcoming of modernism,
-          it seemed to indulge in its worst aspects: the meaninglessness, the ugliness, the subjectivity - in short,
+          it seemed to indulge in its worst aspects: the meaninglessness, the ugliness, the subjectivity - in short,&nbsp;
           <i>art pour l'art</i>. I don't think we have corrected course since. We have no ambition because  we
-          do not know why we are together. We do not know what we are building, or why we would want to build anything.
+          do not know why we are together, what we are building, or why we should build anything in the first place.
           Before we can have great art and culture, we need a purpose for our society. The&nbsp;
           <a href="https://palladiummag.com/2018/09/29/towards-the-post-liberal-synthesis/">post-liberal thesis</a> must
           come together before we truly overcome modern art.
