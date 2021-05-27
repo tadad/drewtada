@@ -8,9 +8,7 @@ export default function Journal() {
     <Layout>
       <h1>Journal</h1>
       <h2>ブログ</h2>
-      <p>
-        These are random thoughts and musings I write in short bursts.
-      </p>
+      <p>Index</p>
       <ul className="block-list">
         <li><Link href="#5-18-21">Life Affirmation</Link></li>
         <li><Link href="#5-16-21">Death of the Author is a Theory for Midwits</Link></li>

@@ -79,6 +79,6 @@ input {
 }
 
 img {
-  border: 7px outset black !important;
+  border: 3px solid #60717F !important;
   max-width: 100%;
 }

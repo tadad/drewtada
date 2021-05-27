@@ -25,11 +25,10 @@ export default function Layout(props) {
       <nav className={ styles.nav }>
         <h1>Twilight of the Idols</h1>
         <h2 style={{ letterSpacing: "10px" }}>ウェブサイト</h2>
-        <small><i>Version 0.1.0</i></small>
         <ul style={{ display: "flex", padding: 0, justifyContent: "space-around" }}>
-          <li><Link href="/">Home</Link></li>
-          <li><Link href="/writing/journal">Writing</Link></li>
-          <li><Link href="/about">About</Link></li>
+          <li><Link href="/"><a>Home</a></Link></li>
+          <li><Link href="/writing/journal"><a>Writing</a></Link></li>
+          <li><Link href="/about"><a>About</a></Link></li>
         </ul>
       </nav>
       <main className={ styles.content }>

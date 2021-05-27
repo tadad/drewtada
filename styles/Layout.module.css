@@ -12,7 +12,7 @@
 
 .nav {
   text-align:center;
-  border:7px inset #6F5B7E;
+  border:3px solid #6F5B7E;
   margin:10px auto;
   max-width:500px;
   padding:10px;
@@ -30,7 +30,6 @@
 }
 
 .nav li {
-  border:5px outset #6F5B7E;
   margin: 5px;
   letter-spacing: 3px;
   padding:3px;
@@ -45,7 +44,7 @@
   overflow: auto;
   margin:auto;
   text-align: center;
-  border: 7px inset #6F5B7E;
+  border: 3px solid #6F5B7E;
   margin-bottom: 10px;
   max-width:500px;
   padding: 15px;
@@ -54,7 +53,7 @@
 .content h1 {
   text-align: left;
   font-size: 25px;
-  border-bottom: 2px solid black;
+  border-bottom: 1px solid black;
   padding-bottom: 10px;
   margin-top:0;
   letter-spacing: 10px;
